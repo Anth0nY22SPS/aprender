@@ -1,0 +1,13 @@
+ASSUNTOS QUE TENHO QUE APRENDER
+
+Protocolos:
+    - notre 
+    - http/https
+    - websocket3
+---
+
+Autenticação/Autorização
+Segurança web
+Hospedagem
+Ci/Cd
+VPN
