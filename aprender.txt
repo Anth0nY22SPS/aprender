@@ -1,4 +1,13 @@
 ASSUNTOS QUE TENHO QUE APRENDER
+---
+
+Orientação a Objetos e boas praticas
+Banco de Dados Relaciona e não Relaciona
+Asp.net
+Ententy framework
+Apis rest e restfull
+Estrutura de dados
+---
 
 Protocolos:
     - notre 
@@ -6,8 +15,26 @@ Protocolos:
     - websocket3
 ---
 
+Tipos de Projetos
+
+Mvc
+Event
+---
+
 Autenticação/Autorização
 Segurança web
 Hospedagem
 Ci/Cd
 VPN
+Performaçe
+Escalabilidade
+Manutelabilidade
+---
+
+Matematica:
+calculo 
+algebra
+algebra linear
+Matematica estatistica
+teoria dos gravos
+mat estocástica
