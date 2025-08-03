@@ -1,40 +1,54 @@
-ASSUNTOS QUE TENHO QUE APRENDER
----
+ASSUNTOS QUE TENHO QUE APRENDER 
+divididos em 2 partes
+
+.            FOCO    
 
 Orientação a Objetos e boas praticas
 Banco de Dados Relaciona e não Relaciona
+Ententy framework / Dapper
 Asp.net
-Ententy framework
 Apis rest e restfull
 Estrutura de dados
----
-
 Protocolos:
-    - notre 
     - http/https
     - websocket3
----
-
-Tipos de Projetos
-
-Mvc
-Event
----
-
-Autenticação/Autorização
+    - TCP
+Testes unitarios e de integração
+Autenticação/Autorização:
+    - xUnit, NUnit, MSTest
 Segurança web
+Mensageria
 Hospedagem
+---------------------------------------------------------------------------------------------
+
+
+.             FUTURO
+
+Docker
+kubernetes
+Azure
+Tipos de Projetos
+    - Mvc
+    - Event
 Ci/Cd
-VPN
+MultiCache
 Performaçe
 Escalabilidade
 Manutelabilidade
----
-
+Microsserviços
+Clean Arquite
+DDD
+CQRS
+Event-Driven
+Git/GitHub:
+    - GitFlow
+    - PRs
+    - Code review
+VPN
 Matematica:
-calculo 
-algebra
-algebra linear
-Matematica estatistica
-teoria dos gravos
-mat estocástica
+    - calculo 
+    - algebra
+    - algebra linear
+    - Matematica estatistica
+    - teoria dos gravos
+    - matematica estocástica
